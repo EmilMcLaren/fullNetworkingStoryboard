@@ -1,0 +1,6 @@
+framework module Pods_myNetworkPractice {
+  umbrella header "Pods-myNetworkPractice-umbrella.h"
+
+  export *
+  module * { export * }
+}
